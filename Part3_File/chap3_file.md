@@ -64,4 +64,4 @@ float('10')
 
 1. Créez votre propre fichier de notes et faites la moyenne
 
-2. ajouter des coefficents à vos notes et refaire la moyenne.
+2. Ajoutez des coefficents à vos notes et refaire la moyenne.
