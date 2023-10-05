@@ -9,9 +9,10 @@ stream = open(path, 'r')
 ligne = stream.readline()
 
 while ligne != "":
-    ligne = stream.readline()
     print(ligne)
+    ligne = stream.readline()
 
+  
 stream.close()
 
 print("--------------")
