@@ -5,6 +5,8 @@ import urllib.request
 
 1. Donnez le nombre de femmes qui ont survécu.
 
+2. Donnez le pourcentage de femmes qui ont survécu.
+
 """
 
 url = 'https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv'
